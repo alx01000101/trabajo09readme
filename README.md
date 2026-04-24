@@ -1,33 +1,49 @@
-# trabajo09readme
-readme de GitHub
-# Nombre del Proyecto
+
+# Aventura conversacional
+# 🕹️ Aventura Conversacional en Python
 
 ## 📌 Descripción
-Este proyecto fue realizado como parte de la actividad 08. 
-Su objetivo es: (explica qué hace tu programa)
+Este proyecto es una aventura conversacional desarrollada en Python. 
+El usuario toma decisiones a lo largo de la historia, y dependiendo de sus elecciones, el resultado cambia.
+
+El programa utiliza estructuras condicionales como if, elif y condicionales anidados.
+
+---
 
 ## ⚙️ Tecnologías utilizadas
 - Python
-- Numpy (si usaste)
-- Git y GitHub
+- Estructuras condicionales (if, elif, else)
+- Lógica de programación
+
+---
 
 ## 🚀 Cómo ejecutar el proyecto
+
 1. Clonar el repositorio:
-   git clone (tu link)
+   git clone (pega aquí tu link)
 
-2. Abrir el archivo en Python
+2. Abrir el archivo .py en tu editor (por ejemplo VS Code)
 
-3. Ejecutar el programa
+3. Ejecutar el programa:
+   python nombre_del_archivo.py
 
-## 📊 Funcionalidades
-- (Ejemplo) Operaciones con matrices
-- (Ejemplo) Uso de librerías
-- (Ejemplo) Resultados en consola
+---
+
+## 🎮 Funcionalidades
+- Toma de decisiones por parte del usuario
+- Diferentes caminos en la historia
+- Uso de condicionales anidados
+- Interacción por consola
+
+---
 
 ## 🧠 Lo que aprendí
-- Uso de matrices
-- Uso de Numpy
-- Uso de Git y GitHub
+- Uso de estructuras if, elif y else
+- Cómo crear decisiones dentro de un programa
+- Lógica de programación básica
+- Organización de código
+
+---
 
 ## 👤 Autor
-Tu nombre
+Emilia López Salazar
