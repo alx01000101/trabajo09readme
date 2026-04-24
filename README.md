@@ -20,12 +20,12 @@ El programa utiliza estructuras condicionales como if, elif y condicionales anid
 ## 🚀 Cómo ejecutar el proyecto
 
 1. Clonar el repositorio:
-   git clone (pega aquí tu link)
+   git clone https://github.com/alx01000101/aventuras.git
 
 2. Abrir el archivo .py en tu editor (por ejemplo VS Code)
 
 3. Ejecutar el programa:
-   python nombre_del_archivo.py
+   python aventurac2.py
 
 ---
 
